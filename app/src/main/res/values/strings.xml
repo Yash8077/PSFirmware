@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">PS Firmware</string>
+    <string name="channel_name" translatable="false">Firmware status</string>
+    <string name="channel_description" translatable="false">Ongoing notification with the firmware of the selected region</string>
+    <string name="enable_notification" translatable="false">Enable notification</string>
+    <string name="disable_notification" translatable="false">Disable notification</string>
+    <string name="refresh_now" translatable="false">Refresh now</string>
+    <string name="battery_settings" translatable="false">Battery optimization</string>
+    <string name="app_subtitle" translatable="false">Checks automatically every 5 minutes</string>
+    <string name="fetch_failed" translatable="false">Could not reach the API</string>
+    <string name="permission_denied" translatable="false">Allow notifications to show the status</string>
+    <string name="label_region" translatable="false">REGION</string>
+    <string name="no_region" translatable="false">Choose a region</string>
+    <string name="choose_region" translatable="false">Choose a region</string>
+    <string name="choose_region_first" translatable="false">Which region would you like to check?</string>
+    <string name="region_unavailable" translatable="false">%1$s  (unavailable)</string>
+    <string name="update_channel_name" translatable="false">App updates</string>
+    <string name="update_notification_title" translatable="false">PS Firmware %1$s is available</string>
+    <string name="update_notification_text" translatable="false">Tap to update</string>
+    <string name="update_available" translatable="false">Update available</string>
+    <string name="update_version" translatable="false">Version %1$s is ready to install</string>
+    <string name="update_button" translatable="false">Update</string>
+    <string name="update_downloading" translatable="false">Downloading… %1$d%%</string>
+    <string name="update_downloading_unknown" translatable="false">Downloading…</string>
+    <string name="update_failed" translatable="false">Update failed</string>
+    <string name="update_allow_install" translatable="false">Allow PS Firmware to install updates, then tap Update again</string>
+    <string name="version_footer" translatable="false">Version %1$s  ·  Check for updates</string>
+    <string name="up_to_date" translatable="false">You\'re on the latest version</string>
+    <string name="update_check_failed" translatable="false">Could not check for updates</string>
+    <string name="notif_label_latest">LATEST</string>
+    <string name="notif_label_minimum">MINIMUM</string>
+    <string name="notif_card_title">Firmware · %1$s</string>
+    <string name="notif_last_update">Last API update: %1$s</string>
+    <string name="notif_last_fetch">Checked at %1$s</string>
+    <string name="notif_offline">offline</string>
+    <string name="notif_status_online">ONLINE</string>
+    <string name="notif_status_unavailable">UNAVAILABLE</string>
+    <string name="notif_summary_title">Latest %1$s · Minimum %2$s</string>
+    <string name="notif_summary_text">Status: %1$s</string>
+    <string name="widget_name" translatable="false">PS Firmware</string>
+    <string name="widget_description" translatable="false">Shows latest and minimum PlayStation firmware for your region</string>
+</resources>
